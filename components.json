@@ -1,0 +1,199 @@
+[
+  {
+    "id": "wire001",
+    "name": "Solar Wire",
+    "category": "wire",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595370/j7dadnopyn4fjy8dwcmf.webp",
+    "description": "Standard solar wire for electrical connections"
+  },
+  {
+    "id": "wire002",
+    "name": "Wire 2",
+    "category": "wire",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595370/awiuyeoeagmqedhlxezo.jpg",
+    "description": "Durable solar wire with insulation"
+  },
+  {
+    "id": "wire003",
+    "name": "Wire 3",
+    "category": "wire",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595369/vlabhe1c0wutivuszffu.webp",
+    "description": "Heavy-duty wire for solar setups"
+  },
+  {
+    "id": "panel400",
+    "name": "Solar Panel 400W",
+    "brand": "Jinko",
+    "category": "panel",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595364/nbnsaujm6jze5mbbp5yc.jpg",
+    "description": "400W high-efficiency solar panel"
+  },
+  {
+    "id": "panel500",
+    "name": "Solar Panel 500W",
+    "brand": "Jinko",
+    "category": "panel",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595365/wluvbibbsuwzo2fosmjd.jpg",
+    "description": "500W solar panel suitable for residential systems"
+  },
+  {
+    "id": "panel600",
+    "name": "Solar Panel 600W-625W",
+    "brand": "Jinko",
+    "category": "panel",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595363/gobewbqbzup25wwdc2qp.jpg",
+    "description": "High power panel ideal for larger setups"
+  },
+  {
+    "id": "panel200",
+    "name": "Solar Panel 200W",
+    "category": "panel",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595360/qj336s9p0vhjamauvwew.png",
+    "description": "Compact solar panel for small-scale usage"
+  },
+  {
+    "id": "panel300",
+    "name": "Solar Panel 300W",
+    "category": "panel",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595357/wqoug0lonii2zxkyvyg9.jpg",
+    "description": "300W solar panel commonly used for homes"
+  },
+  {
+    "id": "wireframe001",
+    "name": "Solar Wire Frame",
+    "category": "frame",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595357/mrixkur0f2qhabbj8al5.jpg",
+    "description": "Frame for organizing solar wires"
+  },
+  {
+    "id": "panel100",
+    "name": "Solar Panel 100W",
+    "category": "panel",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595356/php3qirvhry4oupuzme6.jpg",
+    "description": "Portable 100W solar panel for light use"
+  },
+  {
+    "id": "frame004",
+    "name": "Solar Frame 4",
+    "category": "frame",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595356/akzqutc5s1ftvnlvtqch.jpg",
+    "description": "Mounting frame for solar panel installations"
+  },
+  {
+    "id": "frame003",
+    "name": "Solar Frame 3",
+    "category": "frame",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595355/wsae7k2ebgvnffmaeuk9.webp",
+    "description": "Aluminum structure for solar panels"
+  },
+  {
+    "id": "charger001",
+    "name": "Solar Charger",
+    "category": "charger",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595350/xwoarxfrs3tmvmcpoadt.jpg",
+    "description": "Universal solar charger for battery charging"
+  },
+  {
+    "id": "battery001",
+    "name": "AGS Battery 50 12V",
+    "category": "battery",
+    "brand": "AGS",
+    "voltage": "12V",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595349/bbu4qaql73fcoamqgpug.webp",
+    "description": "50Ah solar battery for home use"
+  },
+  {
+    "id": "battery002",
+    "name": "Osaka Battery 50",
+    "category": "battery",
+    "brand": "Osaka",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595347/oztylcmfo8kpkatoew0h.jpg",
+    "description": "Reliable 12V battery for solar backup"
+  },
+  {
+    "id": "battery003",
+    "name": "Phoenix XP 60L",
+    "category": "battery",
+    "brand": "Phoenix",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595343/ovl0joxpr8jixurrtzsd.jpg",
+    "description": "Maintenance-free battery"
+  },
+  {
+    "id": "battery004",
+    "name": "AGS GX-200F 12V",
+    "category": "battery",
+    "brand": "AGS",
+    "plates": 23,
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595340/v3kpf3pximzgevgyddtb.jpg",
+    "description": "Heavy-duty battery for long backup"
+  },
+  {
+    "id": "inverter001",
+    "name": "Solar Inverter",
+    "category": "inverter",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595339/voakcp7ezoiqsmpkvqrs.jpg",
+    "description": "Efficient inverter for home solar systems"
+  },
+  {
+    "id": "charger002",
+    "name": "Jinko Solar Charger",
+    "category": "charger",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595339/a1naw3zhyvt4vhaidnvv.webp",
+    "description": "High-efficiency charger from Jinko"
+  },
+  {
+    "id": "inverter002",
+    "name": "Solar Inverter 2",
+    "category": "inverter",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595338/bd7te8kimrsaj2cm4k0p.png",
+    "description": "Backup inverter for solar systems"
+  },
+  {
+    "id": "battery005",
+    "name": "AGS GX-200",
+    "category": "battery",
+    "brand": "AGS",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595338/uvtftyydy3evc9jfpeyy.jpg",
+    "description": "Reliable power battery for solar applications"
+  },
+  {
+    "id": "battery006",
+    "name": "Phoenix Battery 130Ah",
+    "category": "battery",
+    "brand": "Phoenix",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595337/t1cgp4ntxlrg7atlr8g3.jpg",
+    "description": "130Ah high-capacity solar battery"
+  },
+  {
+    "id": "battery007",
+    "name": "Osaka 60L 11 Plates",
+    "category": "battery",
+    "brand": "Osaka",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595335/gjoh0bkq2uvfchwj2b3w.jpg",
+    "description": "Efficient 60L battery for medium-scale setups"
+  },
+  {
+    "id": "battery008",
+    "name": "Osaka 11 Plates 140AH",
+    "category": "battery",
+    "brand": "Osaka",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595333/ye5tpqzv1v2nqtosket5.jpg",
+    "description": "High amp hour battery for consistent performance"
+  },
+  {
+    "id": "battery009",
+    "name": "Osaka 23 Plates 140AH 12V",
+    "category": "battery",
+    "brand": "Osaka",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595333/ye5tpqzv1v2nqtosket5.jpg",
+    "description": "Durable 23 plate 140Ah battery"
+  },
+  {
+    "id": "battery010",
+    "name": "Phoenix 130Ah",
+    "category": "battery",
+    "brand": "Phoenix",
+    "image": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747595329/efvovadsjuiqji11xtpd.jpg",
+    "description": "Long-lasting backup battery"
+  }
+]

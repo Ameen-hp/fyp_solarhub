@@ -1,0 +1,4002 @@
+[
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Battery is overheating in the afternoon.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Ensure the battery is kept in a cool, ventilated area. Check for overcharging issues in the controller."
+  },
+  {
+    "issue_description": "Inverter displays error code E02.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "E02 usually indicates overvoltage. Check system wiring and ensure voltage is within safe limits."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Panels appear physically damaged or discolored.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Replace cracked panels and verify lightning arresters are working to prevent further damage."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "None",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "System not producing power during cloudy weather.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03",
+    "solution": "Install a battery backup or upgrade to a system with better low-light performance panels."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Solar panels produce low output during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Clean the panels and check for shade. Also, inspect for panel degradation or loose connections."
+  },
+  {
+    "issue_description": "Inverter frequently shuts down at peak load.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Upgrade the inverter capacity or reduce load. Also, check for software or firmware issues."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  },
+  {
+    "issue_description": "Excessive humming noise from inverter.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Verify grounding, and ensure inverter is placed on vibration-absorbing material. Check internal cooling fan."
+  },
+  {
+    "issue_description": "Solar system does not charge during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03",
+    "solution": "Inspect charge controller and panel connections. Replace blown fuses or reconnect broken wires."
+  },
+  {
+    "issue_description": "Battery drains at night even without any load.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02",
+    "solution": "Inspect for hidden energy drains or faulty wiring. Upgrade to a better battery or hybrid inverter."
+  },
+  {
+    "issue_description": "Sudden drop in battery backup time.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "None",
+    "solution": "Test battery capacity. If degraded, replace. Minimize load and improve charging duration."
+  }
+]

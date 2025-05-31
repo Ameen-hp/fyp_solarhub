@@ -1,0 +1,1311 @@
+[
+{
+  "id": "1",
+   "price":50000,
+  "PackageName":"Two Dc Family System",
+   "category": "package1",
+  "Products":[
+{
+  "name": "Solar Panel Wire - Copper",
+  "category": "Wire",
+  "material": "Copper",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632798/wire_solar_aqzfto.jpg",
+  "description": "High-quality copper wire for solar panel connections, ensuring low resistance and durability.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Wire 60mm",
+  "category": "Wire",
+  "size_mm": 60,
+  "material": "Copper",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632797/wire_60mm_yljnfh.webp",
+  "description": "Durable 60mm copper wire suitable for heavy solar connections, offering high conductivity.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Wire for Fan",
+  "category": "Wire",
+  "application": "Fan Connection",
+  "material": "Copper",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632797/wire_fan_k1d5zc.webp",
+  "description": "Reliable copper wire ideal for fan installations in solar systems, ensuring safe and stable connections.",
+  "created_at": "ISODate()",
+  "available": true
+}
+
+,
+{
+  "name": "Battery Terminals",
+  "category": "Accessories",
+  "application": "Battery Connection",
+  "material": "Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632796/terminal_mprkc9.avif",
+  "description": "Sturdy and rust-resistant terminals for secure battery connections in solar power systems.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Switch Buttons",
+  "category": "Switches",
+  "application": "Control Power Flow",
+  "material": "Plastic and Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632796/switch_olscyv.jpg",
+  "description": "Durable and easy-to-install switch buttons for managing power in solar setups.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Solar Panel Plate 225W",
+  "category": "Solar Panels",
+  "power_output_watt": 225,
+  "application": "Energy Generation",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632795/solar_panel_225w_c1hf0y.webp",
+  "description": "High-efficiency 225W solar panel plate ideal for residential and commercial solar energy systems.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Royal Fan AC/DC",
+  "category": "Fans",
+  "brand": "Royal",
+  "type": "AC/DC",
+  "application": "Cooling",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632795/royal_fans_orspsq.webp",
+  "description": "Energy-efficient Royal fan compatible with both AC and DC power sources, perfect for solar-powered systems.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Osaka Bulb",
+  "category": "Lighting",
+  "brand": "Osaka",
+  "type": "LED",
+  "application": "Lighting",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632795/osaka_bulb_ybarfg.png",
+  "description": "Long-lasting LED Osaka bulb designed for energy efficiency and optimal lighting for solar setups.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Round Block",
+  "category": "Accessories",
+  "application": "Solar System Installation",
+  "material": "Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632795/round_block_vairf9.jpg",
+  "description": "Durable round block for securing components in solar panel installations, designed for long-term use.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "PV Stand for Solar Plates",
+  "category": "Mounting Systems",
+  "application": "Solar Panel Support",
+  "material": "Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632794/pv_stand_dfbrub.png",
+  "description": "Sturdy PV stand designed for mounting solar plates, ensuring secure and stable installations in all weather conditions.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "PV Controller for Solar",
+  "category": "Controllers",
+  "application": "Solar System Regulation",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632794/pv_controoller_czac7q.webp",
+  "description": "Efficient PV controller for regulating and optimizing the performance of solar panels, ensuring reliable power generation.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Electricians",
+  "category": "Services",
+  "application": "Solar System Installation and Repair",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632793/maszdori_civbhm.png",
+  "description": "Professional electricians specializing in solar system installations and repairs, ensuring safe and efficient setups.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Mini Screw",
+  "category": "Accessories",
+  "application": "Solar Panel Assembly",
+  "material": "Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632793/mini_screw_twlsd7.jpg",
+  "description": "Compact and durable mini screws designed for securing small components in solar panel assemblies.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Battery 180 Saga",
+  "category": "Batteries",
+  "model": "180 Saga",
+  "application": "Energy Storage for Solar Systems",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632793/180_battery_saga_acrntw.jpg",
+  "description": "Reliable 180 Saga battery designed for energy storage in solar systems, offering long-lasting power for both residential and commercial use.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Board for Solar Buttons",
+  "category": "Accessories",
+  "application": "Solar Button Assembly",
+  "material": "Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632792/borad_11_nma11n.webp",
+  "description": "Durable plastic board designed to mount and secure solar system buttons for efficient control and operation.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Holder for Bulb",
+  "category": "Accessories",
+  "application": "Bulb Installation",
+  "material": "Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747632792/holder_s6uvbr.avif",
+  "description": "Sturdy metal holder designed for securely mounting bulbs in solar lighting systems.",
+  "created_at": "ISODate()",
+  "available": true
+}
+
+]
+}
+,
+{
+ "id": "2", 
+ "price":100000,
+"PackageName":"One Family Package",
+   "category": "package2",
+  "Products":[
+
+{
+  "name": "Solar Wires",
+  "category": "Wiring",
+  "application": "Solar Panel Wiring",
+  "material": "Copper",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634607/wire_solar_utt5yx.jpg",
+  "description": "High-quality copper solar wires designed for efficient power transfer in solar panel installations.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Wire for Fans",
+  "category": "Wiring",
+  "application": "Fan Wiring",
+  "material": "Copper",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634606/wire_fan_xodzcl.webp",
+  "description": "Durable copper wire designed for safely connecting and powering fans in solar and electrical systems.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Battery Terminals",
+  "category": "Accessories",
+  "application": "Battery Connections",
+  "material": "Copper",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634605/terminal_sw2inz.avif",
+  "description": "Durable copper battery terminals designed for reliable and secure connections in solar power systems.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Switch Buttons",
+  "category": "Electrical Components",
+  "application": "Control for Solar and Electrical Systems",
+  "material": "Plastic/Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634604/switch_vyiymv.jpg",
+  "description": "Durable and efficient switch buttons for controlling solar and electrical systems, designed for ease of use and long-lasting performance.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Solar Panel 225W",
+  "category": "Solar Panels",
+  "model": "225W",
+  "application": "Solar Energy Generation",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634604/solar_panel_225w_wll0p5.webp",
+  "description": "High-efficiency 225W solar panel designed for residential and commercial solar energy generation.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Saga Battery 100",
+  "category": "Batteries",
+  "model": "100",
+  "application": "Energy Storage for Solar Systems",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634603/saga_battery_100_g4xtom.png",
+  "description": "Reliable Saga 100 battery designed for energy storage in solar systems, providing consistent power for residential and commercial applications.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Royal Fan AC/DC",
+  "category": "Fans",
+  "application": "Solar-powered and Electrical Systems",
+  "type": "AC/DC",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634602/royal_fans_zr2sdh.webp",
+  "description": "Energy-efficient Royal AC/DC fan designed for both solar and electrical systems, providing reliable airflow in various environments.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "PV Stand for Solar Plates",
+  "category": "Solar Accessories",
+  "application": "Solar Panel Mounting",
+  "material": "Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634601/pv_stand_tttdeg.png",
+  "description": "Durable metal PV stand designed to securely mount solar panels, ensuring optimal performance and stability in outdoor conditions.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "PV Controller for Solar",
+  "category": "Solar Accessories",
+  "application": "Solar Power Management",
+  "material": "Plastic/Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634601/pv_controoler_r2lui8.webp",
+  "description": "Efficient PV controller designed to regulate and manage solar power, ensuring optimal energy conversion and storage in solar systems.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Osaka Bulb",
+  "category": "Lighting",
+  "application": "Indoor and Outdoor Lighting",
+  "material": "Glass/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634600/osaka_bulb_s0wq5z.png",
+  "description": "Energy-efficient Osaka bulb designed for both indoor and outdoor lighting, providing bright and long-lasting illumination.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Electricians",
+  "category": "Services",
+  "application": "Solar System Installation and Maintenance",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634599/maszdori_eylokb.png",
+  "description": "Professional electricians offering installation, repair, and maintenance services for solar systems and electrical setups.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Mini Screw",
+  "category": "Hardware",
+  "application": "Solar Panel and Electrical Component Assembly",
+  "material": "Steel",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634599/mini_screw_rvnsjx.jpg",
+  "description": "Small, durable steel mini screws designed for securing solar panels and electrical components in tight spaces.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Holder for Bulb",
+  "category": "Lighting Accessories",
+  "application": "Bulb Support",
+  "material": "Plastic/Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747634598/holder_kolzcw.avif",
+  "description": "Durable holder designed for securely holding bulbs in place, compatible with various types of light bulbs.",
+  "created_at": "ISODate()",
+  "available": true
+}
+
+]
+}
+,
+{
+  "id": "3",
+  "price":200000,
+"PackageName":"Shops,Stores,Resturants Package",
+   "category": "package3",
+  "Products":[
+
+{
+  "name": "Wires",
+  "category": "Electrical Accessories",
+  "application": "Electrical Wiring for Solar Systems and General Use",
+  "material": "Copper",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635666/wires_lwed8k.png",
+  "description": "High-quality copper wires designed for solar systems and general electrical wiring needs, ensuring optimal conductivity and safety.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Volt Protector",
+  "category": "Electrical Accessories",
+  "application": "Surge Protection for Solar Systems and Electrical Appliances",
+  "material": "Plastic/Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635665/volter_protecter_n2zslh.png",
+  "description": "A reliable volt protector designed to safeguard solar systems and electrical appliances from voltage surges and power fluctuations.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Tubular Battery 1800",
+  "category": "Batteries",
+  "application": "Solar Energy Storage",
+  "material": "Lead Acid",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635664/tubler_battery_1800_ok9hog.png",
+  "description": "Durable and high-capacity tubular battery designed for solar energy storage, offering long-lasting performance and reliability.",
+  "created_at": "ISODate()",
+  "available": true
+}
+
+,
+{
+  "name": "Battery Wires",
+  "category": "Electrical Accessories",
+  "application": "Connecting Batteries to Solar Systems and Electrical Components",
+  "material": "Copper",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635663/battery_wire_kfqi1q.png",
+  "description": "High-quality copper battery wires designed for connecting solar batteries to the system, ensuring reliable power transfer and durability.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Tools",
+  "category": "Hardware",
+  "application": "Solar System Installation and Maintenance",
+  "material": "Varies (Steel, Plastic, etc.)",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635662/tools_zr3a3a.png",
+  "description": "A collection of essential tools required for the installation, maintenance, and repair of solar systems and electrical components.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Solar Plates 585W Jinko",
+  "category": "Solar Panels",
+  "application": "Solar Power Generation",
+  "material": "Monocrystalline Silicon",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635661/solar_panel_585w_jinko.png",
+  "description": "High-efficiency 585W solar panels by Jinko, designed for large-scale solar power generation, offering reliable performance and long lifespan.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Battery Stand",
+  "category": "Storage Solutions",
+  "application": "Battery Support and Storage",
+  "material": "Metal/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635661/stand_battery_idpo3a.png",
+  "description": "A sturdy battery stand designed to securely hold and store batteries, ensuring safety and easy access for maintenance.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "PV Stands for Solar",
+  "category": "Solar Accessories",
+  "application": "Mounting and Supporting Solar Panels",
+  "material": "Steel/Aluminum",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635660/pv_stand_solar_1.png",
+  "description": "Durable and adjustable PV stands designed to securely mount and support solar panels, optimizing panel orientation for maximum energy generation.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Light Handicators",
+  "category": "Electrical Accessories",
+  "application": "Indicator Lights for Solar and Electrical Systems",
+  "material": "Plastic/LED",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635659/light_handicator_cqysqr.png",
+  "description": "High-quality LED light handicators used for signaling and monitoring purposes in solar and electrical systems, providing clear visual indicators.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Inverter for Solar",
+  "category": "Solar Accessories",
+  "application": "Converting DC to AC Power for Solar Systems",
+  "material": "Metal/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635657/inventer_solar_lbl5iy.webp",
+  "description": "A reliable solar inverter designed to convert DC power generated by solar panels into usable AC power for homes and businesses.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Handicators",
+  "category": "Electrical Accessories",
+  "application": "Used for Signaling and Control in Electrical Systems",
+  "material": "Plastic/LED",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635657/handicator_yw7p8w.png",
+  "description": "Handicators are compact signaling devices used for controlling and indicating the status of electrical systems, providing clear visual cues.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Inverter 1.2K",
+  "category": "Solar Accessories",
+  "application": "Converting DC to AC Power for Solar Systems",
+  "material": "Metal/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635656/inventer_1.2k_ytdp7k.jpg",
+  "description": "A 1.2K inverter designed to efficiently convert DC power from solar panels into AC power for home and industrial use.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Bakers",
+  "category": "Appliances",
+  "application": "Used for Baking and Cooking",
+  "material": "Metal/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635654/download_wql8q8.png",
+  "description": "High-quality baker appliances designed for commercial or home use, providing efficient baking and cooking solutions.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "DB Box",
+  "category": "Electrical Accessories",
+  "application": "Distribution Box for Electrical Systems",
+  "material": "Metal/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635654/db_box_ye50nx.png",
+  "description": "A distribution box (DB Box) used for protecting and managing electrical circuits in homes, offices, or industrial buildings. Ensures safety by controlling electrical distribution.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Battery Breakers",
+  "category": "Electrical Accessories",
+  "application": "Used to Protect Batteries and Electrical Systems from Overload and Short Circuit",
+  "material": "Metal/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635652/batery_braker_xqtrfo.png",
+  "description": "Battery breakers provide essential protection for battery-powered systems by disconnecting in the event of an overload or short circuit, ensuring the safety of the electrical system.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Connectors",
+  "category": "Electrical Accessories",
+  "application": "Used for Connecting Wires and Electrical Components",
+  "material": "Metal/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635652/conecttors_kn1smo.png",
+  "description": "Connectors are essential for creating secure electrical connections between wires and components, ensuring proper current flow and minimizing the risk of electrical faults.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Change Over",
+  "category": "Electrical Accessories",
+  "application": "Used to Switch Between Power Sources (e.g., from Grid to Generator)",
+  "material": "Metal/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635651/change_over_fv1hz6.png",
+  "description": "A Change Over switch allows for the seamless switching between power sources, commonly used in systems that rely on both grid electricity and backup generators.",
+  "created_at": "ISODate()",
+  "available": true
+}
+, 
+{
+  "name": "AC Breakers",
+  "category": "Electrical Accessories",
+  "application": "Used for Protecting Electrical Circuits from Overload and Short Circuits in AC Systems",
+  "material": "Metal/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747635650/ac_braker_aalqwt.png",
+  "description": "AC Breakers are safety devices designed to protect electrical circuits from overloads and short circuits in air conditioning systems and other AC-powered appliances.",
+  "created_at": "ISODate()",
+  "available": true
+}
+
+
+]
+}
+,
+{
+  "id": "4",
+  "price":500000,
+  "PackageName":"for middle level peoples",
+   "category": "package4",
+  "Products":
+[
+
+{
+  "name": "Wires",
+  "category": "Electrical Accessories",
+  "application": "Used for Conducting Electrical Current Between Components",
+  "material": "Copper/Aluminum",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636318/wiresss_lnsfsc.png",
+  "description": "Electrical wires are used to conduct electrical current between components or devices, available in various sizes and materials to suit different applications.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Voltage Protectors",
+  "category": "Electrical Accessories",
+  "application": "Used to Protect Electrical Equipment from Voltage Fluctuations",
+  "material": "Plastic/Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636317/volte_protecteor_cjc3ym.png",
+  "description": "Voltage protectors are devices designed to safeguard electrical equipment from damaging voltage spikes or dips, ensuring stable operation of connected systems.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Tools",
+  "category": "Electrical Accessories",
+  "application": "Used for Various Electrical Installation and Maintenance Tasks",
+  "material": "Steel/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636315/toolss_bsqfwn.png",
+  "description": "Tools are essential equipment used for installing, maintaining, and repairing electrical systems and devices, including pliers, screwdrivers, and wire cutters.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Battery Stand",
+  "category": "Solar Accessories",
+  "application": "Used for Holding and Supporting Batteries in a Stable Position",
+  "material": "Metal/Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636314/stand_batterys_aelx7o.png",
+  "description": "Battery stands are designed to securely hold and support batteries, ensuring stability and ease of access for maintenance and replacement.",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Jinko Solar Plates",
+  "category": "Solar Panels",
+  "application": "Used for Solar Power Generation",
+  "material": "Monocrystalline Silicon",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636313/solar_plate_gjxdqx.png",
+  "description": "Jinko Solar Plates are high-efficiency solar panels designed for optimal energy conversion from sunlight, providing a sustainable solution for solar power systems.",
+  "power_rating": "585W",
+  "manufacturer": "Jinko Solar",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "PV Stand for Solar Plates",
+  "category": "Solar Accessories",
+  "application": "Used to mount solar panels securely for optimal exposure to sunlight.",
+  "material": "Steel/Aluminum",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636311/pv_stands_ccixcj.png",
+  "description": "PV Stands provide a sturdy and adjustable base for solar plates, ensuring they are securely mounted at the optimal angle for maximum energy generation.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Inverter for Solar",
+  "category": "Solar Equipment",
+  "application": "Used to convert DC power generated by solar panels into AC power for household or commercial use.",
+  "material": "Metal, Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636310/invex_womcbw.png",
+  "description": "Solar inverters are crucial components of solar power systems, converting the DC electricity produced by solar panels into AC electricity for use in homes and businesses.",
+  "manufacturer": "Invex",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Indicators",
+  "category": "Solar Equipment",
+  "application": "Used to indicate the operational status or faults in the solar power system.",
+  "material": "Plastic, LED",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636309/indicator_opynfs.png",
+  "description": "Indicators are visual signaling devices used to show the operational status of a solar system or highlight any issues that need attention.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Handicators",
+  "category": "Solar Equipment",
+  "application": "Used to show the status or position of specific parts in a solar system.",
+  "material": "Plastic, LED",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636308/handicatorr_casefo.png",
+  "description": "Handicators are devices that provide visual indicators for different parts of a solar system, helping users understand system status or specific component behavior.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Connectors",
+  "category": "Solar Equipment",
+  "application": "Used to connect various components of a solar power system, ensuring reliable electrical connections.",
+  "material": "Copper, Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636306/connectors_pp9ifm.png",
+  "description": "Connectors are essential components in solar systems, used to link solar panels, inverters, batteries, and other parts. They ensure safe and efficient power transmission.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Change Overs",
+  "category": "Solar Equipment",
+  "application": "Used to switch between grid power and solar power supply, ensuring continuous energy flow.",
+  "material": "Metal, Plastic",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636305/chnagers_32_fuoa0o.png",
+  "description": "Change overs are crucial in hybrid solar systems, allowing automatic switching between solar power and the grid during power outages or load shedding.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Bullets",
+  "category": "Solar Equipment",
+  "application": "Used for making electrical connections and secure fastenings in solar panel systems.",
+  "material": "Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636304/bulllests_u7isln.png",
+  "description": "Bullets are commonly used in electrical connections for solar panels, ensuring secure and safe terminals for wires.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "DC Breakers",
+  "category": "Solar Equipment",
+  "application": "Used to protect electrical circuits from damage caused by excess current in solar power systems.",
+  "material": "Plastic/Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636304/brakerss_dqtsfn.png",
+  "description": "DC breakers are crucial in protecting solar circuits from overloads, ensuring safety in solar power systems.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "AC Breakers",
+  "category": "Solar Equipment",
+  "application": "Used to protect AC electrical circuits from overloads in solar power systems.",
+  "material": "Plastic/Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636303/brakersss_jzphhq.png",
+  "description": "AC breakers are designed to protect AC circuits from overloads, ensuring safe operation in solar installations.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "DB Boxes",
+  "category": "Solar Equipment",
+  "application": "Used for housing circuit breakers and other electrical components in solar power systems.",
+  "material": "Metal",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636301/boxess_zrx0bx.png",
+  "description": "DB Boxes (Distribution Boxes) are essential for safely containing electrical components such as circuit breakers, ensuring secure and organized management of power distribution in solar systems.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Battery Wires",
+  "category": "Solar Equipment",
+  "application": "Used to connect solar batteries to other electrical components like inverters and charge controllers.",
+  "material": "Copper",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636299/battery_wire1_vaqtkh.png",
+  "description": "Battery wires are crucial for establishing connections between the battery and other components of the solar power system. They ensure safe and efficient transfer of electrical power.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Battery 2500 Tubler",
+  "category": "Solar Equipment",
+  "application": "Used in solar power systems to store energy generated by solar panels for later use.",
+  "capacity": "2500Ah",
+  "type": "Tubular",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636298/battery_2500_kthxxb.png",
+  "description": "The Battery 2500 Tubler is a high-capacity tubular battery, ideal for long-term energy storage in solar power systems. It provides reliable backup power during periods without sunlight.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Battery Brakers",
+  "category": "Solar Equipment",
+  "application": "Used for safety purposes in solar systems to break the circuit in case of overload or faults.",
+  "type": "Battery Circuit Breaker",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747636298/ac_brakers_vauti8.png",
+  "description": "Battery Brakers are essential for protecting solar power systems. They are designed to disconnect the power flow in case of faults, ensuring the system’s safety and preventing damage to other components.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+
+
+]
+
+}
+,
+{
+  
+  
+  
+   "id":"5",
+   "price":1000000,
+  "PackageName":"for smart high home system",
+   "category": "package5",
+  "Products":
+[
+
+{
+  "name": "Wire",
+  "category": "Solar Equipment",
+  "application": "Used for connecting components in a solar system, such as panels, controllers, and batteries.",
+  "type": "Electrical Wire",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637203/wires_3_kbj0ac.png",
+  "description": "Solar wires are designed for safe and efficient transmission of electrical energy between solar system components. These wires are usually insulated and weather-resistant to withstand harsh outdoor conditions.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Wire 12mm",
+  "category": "Solar Equipment",
+  "application": "Used for connecting solar components with a thicker gauge for higher current transmission.",
+  "type": "Electrical Wire",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637203/wire_12m_yndtv8.png",
+  "description": "12mm solar wire is designed for higher current transmission in solar systems. It is insulated and weather-resistant to ensure safe operation in various environmental conditions.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Voltage Protector",
+  "category": "Solar Equipment",
+  "application": "Used to protect solar systems and electrical devices from voltage fluctuations.",
+  "type": "Voltage Protection Device",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637200/volt_protectors_cstimn.png",
+  "description": "A voltage protector is a safety device used to shield electrical systems from damage caused by voltage spikes or fluctuations. It ensures the smooth operation of solar systems by preventing overvoltage or undervoltage conditions.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Solar Plates",
+  "category": "Solar Equipment",
+  "application": "Used for harnessing solar energy by converting sunlight into electricity.",
+  "type": "Photovoltaic Panel",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637198/solar_palates_suj69t.png",
+  "description": "Solar plates, also known as photovoltaic panels, capture sunlight and convert it into electrical energy. These plates are a core component of solar energy systems, helping to power homes and businesses sustainably.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "PV Stand",
+  "category": "Solar Equipment",
+  "application": "Used to mount solar panels securely in outdoor environments.",
+  "type": "Mounting Stand",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637197/pv_standsss_l5pofq.png",
+  "description": "A PV stand is used to securely hold solar panels in place, ensuring they are positioned at the optimal angle for sunlight exposure. These stands are designed to be weather-resistant and durable.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Green & Red Indicator Light",
+  "category": "Electrical Components",
+  "application": "Used as visual indicators for system status (e.g., power on/off, fault conditions).",
+  "type": "Indicator Light",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637195/lights_green_red_dpvtvl.png",
+  "description": "These green and red indicator lights are commonly used in solar and electrical systems to show operational status—green for normal operation, red for alerts or faults.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Solar Inverter",
+  "category": "Power Equipment",
+  "application": "Converts DC from solar panels to AC for household or commercial use.",
+  "type": "Inverter",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637194/inveex_mhq87r.png",
+  "description": "A solar inverter designed to efficiently convert solar panel DC output into usable AC power. Suitable for residential and commercial solar systems.",
+  "manufacturer": "Generic",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Red Indicator Light",
+  "category": "Indicators",
+  "application": "Used to display system status, typically indicating faults or active alerts.",
+  "type": "LED Indicator",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637192/indicators_red_rvcyuz.png",
+  "description": "A red LED indicator light used in electrical panels or solar systems to signify faults, power status, or alerts.",
+  "color": "Red",
+  "voltage_rating": "12V / 220V (varies by model)",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "DB Box",
+  "category": "Distribution Boxes",
+  "application": "Used to house circuit breakers, fuses, and electrical connections for safe power distribution.",
+  "type": "Electrical Distribution Board",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637190/DB_t8awxc.png",
+  "description": "A secure distribution board (DB) box for organizing and protecting breakers, wires, and electrical connections in solar and residential setups.",
+  "material": "Metal or ABS plastic (varies)",
+  "mounting": "Wall-mounted",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Connectors",
+  "category": "Wiring Accessories",
+  "application": "Used to securely join electrical wires and ensure stable power flow in solar and other electrical systems.",
+  "type": "Wire Connectors",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637189/connterors_segtpt.png",
+  "description": "Durable electrical connectors for linking wires in solar setups, ensuring safe and consistent electrical connections.",
+  "material": "Plastic and metal contacts",
+  "voltage_rating": "Up to 1000V DC (varies by model)",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Change Over Switch for Light",
+  "category": "Switchgear",
+  "application": "Used to manually switch power supply between solar, battery, or main grid for lighting circuits.",
+  "type": "Manual Change Over Switch",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637187/chnager_onerss_ufrfm2.png",
+  "description": "A reliable manual change over switch designed for lighting systems to toggle between different power sources.",
+  "current_rating": "Up to 63A (varies by model)",
+  "voltage_rating": "230V/415V AC",
+  "material": "Heat-resistant plastic casing with copper terminals",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Change Over Switch",
+  "category": "Switchgear",
+  "application": "Used to switch between main power and backup sources such as solar or battery systems.",
+  "type": "Manual Change Over Switch",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637186/change_overs_uff4m6.png",
+  "description": "A durable and efficient manual change over switch, ideal for solar energy systems to toggle between power sources.",
+  "current_rating": "63A (varies by version)",
+  "voltage_rating": "220V - 415V AC",
+  "material": "Sturdy thermoplastic body with copper contacts",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Bullet Screws for Battery Stand",
+  "category": "Battery Accessories",
+  "application": "Used for securing battery connections in solar systems or battery stands.",
+  "type": "Bullet Screw Connector",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637184/bulits_dody3b.png",
+  "description": "Bullet screws designed for use in battery stands to ensure safe and stable connections. These connectors are commonly used in solar systems for connecting battery terminals.",
+  "material": "Copper with durable insulation and screw mechanism",
+  "wire_compatibility": "Suitable for 10-22 AWG wires",
+  "current_rating": "Up to 20A (depends on gauge)",
+  "color": "Typically Red, Blue, or Yellow",
+  "features": ["Secure locking mechanism", "Easy to install and remove", "Durable and reliable connection"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "AC Breakers",
+  "category": "Electrical Components",
+  "application": "Used to protect electrical circuits from overloads and short circuits in AC systems.",
+  "type": "Circuit Breaker",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637183/brakers1_alwosm.png",
+  "description": "AC Breakers are essential safety devices designed to protect electrical circuits from damage caused by overload or short circuit conditions. These devices automatically interrupt the flow of electricity to prevent fire hazards and equipment damage.",
+  "voltage_rating": "230V / 400V (depending on the model)",
+  "current_rating": "10A, 15A, 20A, 30A, 40A, 50A, etc.",
+  "features": ["Overload protection", "Short circuit protection", "Easy installation", "Manual reset after trip"],
+  "material": "High-quality thermoplastic and copper",
+  "color": "White/Gray",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Battery Tubular 3500",
+  "category": "Energy Storage",
+  "application": "Used for energy storage in solar systems, backup power, and other energy applications.",
+  "type": "Tubular Battery",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637182/batterys_3500_rxa7ar.png",
+  "description": "The Battery Tubular 3500 is a high-performance tubular battery designed for long-lasting energy storage, commonly used in solar power systems and backup power applications. Known for its robust build and extended life cycle, it ensures reliable power availability in various conditions.",
+  "capacity": "3500Ah",
+  "voltage": "12V / 24V",
+  "cycle_life": "1500+ cycles",
+  "features": ["High capacity", "Long cycle life", "Corrosion-resistant tubular design", "Maintenance-free"],
+  "material": "Lead-acid (Tubular)",
+  "color": "Gray/Black",
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "DC Breakers",
+  "category": "Electrical Protection",
+  "application": "Used in DC circuits to protect against overcurrent, short circuits, and electrical faults.",
+  "type": "Circuit Breaker",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747637180/battery_barkers_xfb9kj.png",
+  "description": "DC Breakers are essential electrical components used to protect DC circuits from damage caused by overcurrent or faults. These breakers automatically disconnect the circuit in case of any electrical anomaly, ensuring the safety and reliability of solar systems and other DC-powered applications.",
+  "voltage_rating": "Up to 1000V DC",
+  "current_rating": "Varies by model",
+  "features": ["Overcurrent protection", "Short circuit protection", "Fast disconnect mechanism", "Reliable for DC applications"],
+  "material": "High-quality electrical insulation",
+  "color": "Varies by model",
+  "created_at": "ISODate()",
+  "available": true
+}
+
+
+]
+}
+,
+{
+  
+   "id":"6",
+   "price":1500000,
+  "PackageName":"for  tube well 3 phase  line  system",
+   "category": "package6",
+  "Products":
+
+[
+
+{
+  "name": "Wires",
+  "category": "Electrical Components",
+  "application": "Used for connecting electrical components in solar systems and other electrical circuits.",
+  "type": "Electrical Wire",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747638744/wires2_tqzjuz.png",
+  "description": "Wires are essential electrical components used to transmit electrical power and signals in various systems. They are typically made of copper or aluminum and are used for conducting electricity in solar installations, appliances, and other electrical applications.",
+  "material": "Copper/Aluminum",
+  "color": "Varies by type",
+  "diameter": "Varies by type",
+  "current_rating": "Varies by gauge",
+  "voltage_rating": "Up to 1000V DC",
+  "features": ["High conductivity", "Flexible", "Durable", "Suitable for outdoor and indoor applications"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "PV Brakers",
+  "category": "Electrical Components",
+  "application": "Used for protecting solar power systems from overcurrent and short circuits.",
+  "type": "Circuit Breaker",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747638743/pv_barkers_sgslyd.png",
+  "description": "PV breakers are designed specifically for photovoltaic (solar power) systems. They protect the system from electrical faults like overcurrent or short circuits, ensuring the safety and reliability of solar energy systems.",
+  "voltage_rating": "600V DC",
+  "current_rating": "Varies by model",
+  "features": ["Overcurrent protection", "Short circuit protection", "Reliable and durable", "Compatible with solar systems"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Motors",
+  "category": "Electrical Components",
+  "application": "Used for driving various machines and devices in industrial and commercial settings.",
+  "type": "Electric Motor",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747638742/motors_pkrqdr.png",
+  "description": "Motors are electromechanical devices that convert electrical energy into mechanical motion. They are widely used in various applications, including pumps, fans, conveyors, and other machinery.",
+  "voltage_rating": "Varies by model",
+  "power_rating": "Varies by model",
+  "features": ["Energy efficient", "Durable", "Available in different sizes", "Versatile applications"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Jinko Solar Plates",
+  "category": "Solar Energy",
+  "application": "Used in photovoltaic systems to convert solar energy into electricity.",
+  "type": "Solar Panel",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747638742/jizko_plate_b8r25h.png",
+  "description": "Jinko Solar plates are high-efficiency photovoltaic panels designed to capture sunlight and convert it into electricity for residential, commercial, and industrial applications.",
+  "voltage_rating": "Varies by model",
+  "power_rating": "Varies by model",
+  "features": ["High efficiency", "Durable", "Weather-resistant", "Long lifespan"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Solar Inverter",
+  "category": "Solar Energy",
+  "application": "Converts DC from solar panels into AC for household and industrial use.",
+  "type": "Inverter",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747638741/invt_kssx1h.png",
+  "description": "A solar inverter is an essential device in a solar power system that converts the direct current (DC) electricity generated by solar panels into alternating current (AC) electricity used in homes and businesses.",
+  "voltage_rating": "Varies by model",
+  "power_rating": "Varies by model",
+  "features": ["Efficient power conversion", "Multiple protection features", "Compact design", "Durable"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Solar Wires",
+  "category": "Solar Energy",
+  "application": "Used to connect solar panels to inverters and other components in a solar power system.",
+  "type": "Wire",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747638740/download_1_upcsdu.png",
+  "description": "Solar wires are specially designed to carry electrical current from solar panels to the inverter and battery storage system. They are made to withstand outdoor conditions and high voltage.",
+  "material": "Copper",
+  "voltage_rating": "600V",
+  "current_rating": "Varies by wire gauge",
+  "features": ["UV resistant", "Weatherproof", "High conductivity", "Long-lasting"],
+  "created_at": "ISODate()",
+  "available": true
+}
+
+
+]
+}
+,
+{
+  
+   "id":"7",
+   "price":2000000,
+   "PackageName":"for factory",
+   "category": "package7",
+  "Products":
+
+  
+[
+
+{
+  "name": "Motors",
+  "category": "Solar Energy",
+  "application": "Used in solar energy systems to drive mechanical operations such as pumps or fans.",
+  "type": "Motor",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747639009/motorss_gioqcb.png",
+  "description": "Motors in solar systems are used for driving mechanical loads such as solar-powered water pumps or ventilation systems. These motors are typically powered by DC electricity from the solar panels.",
+  "material": "Various metals and copper",
+  "voltage_rating": "Varies by motor type",
+  "current_rating": "Varies by motor specifications",
+  "features": ["Energy-efficient", "Low maintenance", "Long-lasting", "Sustainable energy use"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Jinko Solar Plates",
+  "category": "Solar Energy",
+  "application": "Used to convert solar energy into electricity for residential, commercial, and industrial applications.",
+  "type": "Solar Panel",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747639008/jizko_solar_plate_fa6s9h.png",
+  "description": "Jinko Solar Plates are high-performance solar panels designed for maximum efficiency in converting sunlight into electricity. They are widely used for residential and commercial solar installations.",
+  "material": "Silicon, Glass, Aluminum",
+  "efficiency": "19% to 21%",
+  "wattage": "Varies from 300W to 400W per panel",
+  "features": ["High efficiency", "Durable design", "Long lifespan", "High power output"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Solar Inverter",
+  "category": "Solar Energy",
+  "application": "Used to convert DC electricity from solar panels into AC electricity for household or commercial use.",
+  "type": "Inverter",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747639007/int_azf5ot.png",
+  "description": "A solar inverter is a critical component of a solar power system, responsible for converting the DC power produced by solar panels into AC power, which can be used by home appliances or fed into the power grid.",
+  "material": "Metal, Plastic",
+  "power_rating": "Varies based on system size (typically 1 kW to 10 kW)",
+  "features": ["Efficient energy conversion", "Compact design", "Reliable performance", "Built-in safety features"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Breakers",
+  "category": "Electrical",
+  "application": "Used to prevent overloads and short circuits in electrical systems by disconnecting the power supply.",
+  "type": "Circuit Breaker",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747638966/bralerss_kzs2hj.png",
+  "description": "Circuit breakers are essential safety devices in electrical systems, designed to automatically interrupt the flow of electricity in the event of a fault, such as overloads or short circuits, protecting wiring and appliances.",
+  "material": "Plastic, Copper, Metal",
+  "current_rating": "Varies by model (typically 10A to 100A)",
+  "features": ["Overload protection", "Automatic reset", "Durable", "Easy installation"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Wires to Connect",
+  "category": "Electrical",
+  "application": "Used to connect various electrical components in solar systems and other electrical installations.",
+  "type": "Electrical Wires",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747638964/2_wiress_o8kdpc.png",
+  "description": "These wires are designed to connect various electrical components such as batteries, solar panels, and inverters, ensuring proper power transmission and safety in solar installations.",
+  "material": "Copper, Insulated Coating",
+  "diameter": "Varies by model (typically 10mm to 12mm)",
+  "features": ["Durable", "Flexible", "Insulated for safety", "Resistant to heat and corrosion"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Wire",
+  "category": "Electrical",
+  "application": "Used for electrical connections in various solar systems and other electronic installations.",
+  "type": "Electrical Wire",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747638963/2_wire_f0oapz.png",
+  "description": "This wire is essential for conducting electricity between solar panels, inverters, and batteries, ensuring smooth energy flow in solar installations.",
+  "material": "Copper, Insulated Coating",
+  "diameter": "Varies based on model (generally 10mm or 12mm)",
+  "features": ["Highly durable", "Flexible", "Heat and corrosion-resistant", "Safety insulated"],
+  "created_at": "ISODate()",
+  "available": true
+}
+
+
+]
+}
+,
+{
+ 
+   "id":"8", 
+   "price":3000000,
+"PackageName":"for mills",
+   "category": "package8",
+  "Products":
+
+
+[
+
+{
+  "name": "Jinko Solar Plates",
+  "category": "Solar Equipment",
+  "application": "Used for solar energy generation by converting sunlight into electricity.",
+  "type": "Solar Panel",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747639271/solar_p_txx3ut.png",
+  "description": "Jinko Solar Plates are high-efficiency solar panels designed for residential and commercial solar power systems. Known for their durability and performance in various weather conditions.",
+  "material": "Monocrystalline Silicon",
+  "efficiency": "18-20%",
+  "wattage": "Varies (typically 300W to 350W)",
+  "features": ["High efficiency", "Durable", "Weather-resistant", "Long lifespan", "Industry-leading performance"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "Motors",
+  "category": "Electrical Equipment",
+  "application": "Used for converting electrical energy into mechanical energy for various applications.",
+  "type": "Electric Motor",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747639269/motorrs_mjuzyl.png",
+  "description": "Motors are devices that convert electrical energy into mechanical energy. They are widely used in industries, vehicles, and appliances for a variety of applications.",
+  "power_rating": "Varies depending on the motor (typically 0.5kW to 10kW)",
+  "speed_range": "Varies (commonly 1500-3000 RPM)",
+  "voltage": "Varies (typically 220V to 440V AC or DC)",
+  "features": ["High efficiency", "Durable", "Variety of sizes", "High torque", "Reliable performance"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "China Inverter",
+  "category": "Solar Equipment",
+  "application": "Used to convert DC electricity from solar panels into AC electricity for use in homes and businesses.",
+  "type": "Inverter",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747639268/china_tjroop.png",
+  "description": "China inverters are affordable solutions for converting DC power from solar panels into usable AC power. Known for their cost-effectiveness, they are popular in residential and commercial solar systems.",
+  "power_rating": "Varies (typically 1kW to 10kW)",
+  "voltage": "220V or 380V",
+  "features": ["Cost-effective", "Compact design", "Easy installation", "Efficient conversion"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "150A Breakers",
+  "category": "Electrical Equipment",
+  "application": "Used for protecting electrical circuits by automatically disconnecting the power in case of overcurrent or short circuit.",
+  "type": "Circuit Breaker",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747639267/150_brakers_grhhov.png",
+  "description": "150A breakers are essential for safeguarding electrical systems by interrupting excessive current flow. Ideal for residential, commercial, and industrial installations.",
+  "current_rating": "150A",
+  "voltage": "230V/400V",
+  "features": ["Overcurrent protection", "Short-circuit protection", "Durable design", "Reliable operation"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "3 Wire",
+  "category": "Electrical Equipment",
+  "application": "Used for connecting electrical components and transferring power or signals between devices.",
+  "type": "Wire",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747639266/3_wire_vxpntm.png",
+  "description": "The 3 wire is designed for use in various electrical systems, providing reliable connections for power distribution and control.",
+  "material": "Copper",
+  "wire_diameter": "Various sizes",
+  "features": ["High conductivity", "Durable insulation", "Flexible design"],
+  "created_at": "ISODate()",
+  "available": true
+}
+,
+{
+  "name": "2 Wire",
+  "category": "Electrical Equipment",
+  "application": "Used for simple electrical connections, commonly used in low-voltage systems.",
+  "type": "Wire",
+  "image_url": "https://res.cloudinary.com/dug8hjtov/image/upload/v1747639265/2s_wire_f81lft.png",
+  "description": "The 2 wire is a fundamental component in electrical systems, providing a reliable connection for power or signal transfer.",
+  "material": "Copper",
+  "wire_diameter": "Various sizes",
+  "features": ["Good conductivity", "Insulated for safety", "Flexible for easy installation"],
+  "created_at": "ISODate()",
+  "available": true
+}
+
+
+]
+}
+
+]

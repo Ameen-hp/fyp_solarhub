@@ -1,0 +1,3502 @@
+[
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E01, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Inverter is showing error code E01, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E01, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Inverter is showing error code E02, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E01, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Inverter is showing error code E02, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Inverter is showing error code E01, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Inverter is showing error code E02, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Inverter is showing error code E02, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E01, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Inverter is showing error code E03, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E01, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Inverter is showing error code E01, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E02, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Inverter is showing error code E02, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Inverter is showing error code E05, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Unexpected system shutdown during the day.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Panels alignment issue causing suboptimal sunlight absorption.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Solar panels are dusty or damaged, reducing output efficiency.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Controller is not regulating power properly.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": false,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Battery is draining overnight and not storing enough energy.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "System producing electricity but not storing in battery.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E02"
+  },
+  {
+    "issue_description": "Inverter is showing error code E04, affecting energy conversion.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E05"
+  },
+  {
+    "issue_description": "Frequent inverter restarts during peak hours.",
+    "battery_drain_at_night": true,
+    "panels_condition": true,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E01"
+  },
+  {
+    "issue_description": "Battery is not charging even when panels are in sunlight.",
+    "battery_drain_at_night": true,
+    "panels_condition": false,
+    "output_during_cloudy_weather": true,
+    "inverter_error_code": "E04"
+  },
+  {
+    "issue_description": "Low power output during cloudy weather conditions.",
+    "battery_drain_at_night": false,
+    "panels_condition": true,
+    "output_during_cloudy_weather": false,
+    "inverter_error_code": "E03"
+  }
+]
